@@ -1,0 +1,99 @@
+body
+{
+	margin: 0px 0px 40px 0px;
+	padding: 0px;
+	color: #202020;
+	background: #ffffff;
+	text-align: center;
+}
+
+#siteholder
+{
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0px;
+	width: 780px;
+	background: url(img/shbg.gif) repeat-y;
+	color: #000;
+}
+
+#header
+{
+	margin: 0px;
+	padding: 0px;
+	width: 780px;
+	height: 120px;
+	background: url(img/header.gif) no-repeat;
+	color: #000;
+	text-align: left;
+	line-height: 15px;
+}
+
+#content
+{
+	margin: 0px 30px 0px 30px;
+	padding: 0px 0px 50px 0px;
+	text-align: left;
+}
+
+#footer
+{
+	margin: 0px;
+	padding: 0px;
+	width: 780px;
+	height: 70px;
+	background: url(img/shfooter.gif) no-repeat;
+	color: #000;
+}
+
+#content p
+{
+	margin: 0px 20px 10px 230px;
+	padding: 0px 0px 0px 10px;
+	font: 400 12px/20px verdana, arial, sans-serif;
+	text-align: left;
+	color: #202020;
+	background: transparent;
+}
+
+#content p.teaser
+{
+	margin: 0px 20px 10px 230px;
+	font: 400 10px/20px verdana, arial, sans-serif;
+	text-align: left;
+	color: #999;
+	font-weight: bold;
+	background: transparent;
+}
+
+#content ul
+{
+	margin: 0px 20px 10px 280px;
+	padding: 0px 0px 0px 10px;
+	font: 400 11px/18px verdana, arial, sans-serif;
+	text-align: left;
+	color: #202020;
+	background: transparent;
+}
+
+p a
+{
+	font: 400 12px/20px verdana, arial, sans-serif;
+	text-decoration: underline;
+	color: #17579F;
+	background: transparent;
+}
+
+p a:hover
+{
+	color: #000;
+	background: d3d3d3;
+}
+
+p a:visited
+{
+	color: #202020;
+	background: transparent;
+}

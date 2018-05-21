@@ -1,0 +1,64 @@
+body {
+  margin:0px 0px 40px 0px;
+  padding:0px;
+  color:#202020;
+  background:#fff;
+  text-align:center;
+  }
+
+#content {
+  margin:0px 30px 0px 200px;
+  padding:0px 0px 50px 0px;
+  text-align:left;
+  }
+
+ 
+#content h1 {
+  margin:0px 0px 14px 20px;
+  padding:0px;      
+  font:400 26px/30px Verdana, Arial, Sans-Serif;
+  text-indent:-0.5em;
+  color:#999;
+  background:transparent;
+  }
+    
+#content p {
+  margin:0px 20px 10px 12px;
+  padding:0px 0px 0px 10px;
+  font:400 12px/20px Verdana, Arial, Sans-Serif;
+  text-align:left;
+  color:#202020;
+  background:transparent;
+
+  }
+
+p a {
+  font:400 12px/20px "Lucida Grande",Verdana,sans-serif;
+  text-decoration:underline;
+  color:#202020;
+  background:transparent;
+  }
+p a:hover {
+  color:#000;
+  background:transparent;
+  }
+p a:visited {
+  color:#202020;
+  background:transparent;
+  }
+
+.quote {
+  color:#fff;
+  background:transparent;
+  }
+ 
+#content img.toparrow {
+  float:right;
+  margin:20px 0px 0px 0px;
+  }
+
+
+#content img.refimg {
+  margin:20px 20px 20px 20px;
+  float:right;
+  }

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<quiz>
+<title>sample quiz</title>
+
+<module>
+  <title>Challenge Questions: Conflicts of Interest</title>
+
+  <question type="multiple-choice">
+    <text>Conflicts of interest are important to identify because</text>
+    <answers>
+      <answer value="a">they can undermine the public trust in science.</answer>
+      <answer value="b">in clinical studies they may have health implications for consumers.</answer>
+      <answer value="c" correct="correct">they are not always financial in nature and therefore may be difficult to identify.</answer>
+      <answer value="d">All of the above.</answer>
+    </answers>
+    <explanation>TBA</explanation>
+  </question>
+
+  <question type="multiple-choice">
+    <text>The core ethical value that is essential to all science is</text>
+    <answers>
+      <answer value="a">trust.</answer>
+      <answer value="b">bias.</answer>
+      <answer value="c">patient safety.</answer>
+      <answer value="d" correct="correct">All of the above.</answer>
+    </answers>
+    <explanation>TBA</explanation>
+  </question>
+
+  <question type="multiple-choice">
+    <text>Financial conflicts of interest are considered</text>
+    <answers>
+      <answer value="a" correct="correct">tangible conflicts of interest.</answer>
+      <answer value="b">intangible conflicts of interest.</answer>
+    </answers>
+    <explanation>TBA</explanation>
+  </question>
+
+  <question type="true-false" correctanswer="false">
+    <text>A conflict of interest is considered a form of research misconduct.</text>
+    <explanation>TBA</explanation>
+  </question>
+  
+    <question type="true-false" correctanswer="false">
+      <text>The National Institutes of Health (NIH), the US Food and Drug Administration (FDA), and the National Science Foundation (NSF) have identified minimum thresholds for equity or stock ownership that must be reported by investigators. </text>
+      <explanation>TBA</explanation>
+  </question>
+  
+    <question type="true-false" correctanswer="true">
+      <text>Disclosure and oversight are the most common measures for managing conflicts of interest.</text>
+      <explanation>TBA</explanation>
+  </question>
+  
+    <question type="true-false" correctanswer="false">
+      <text>An investigator cannot have both tangible and intangible conflicts of interest at the same time.</text>
+      <explanation>TBA</explanation>
+  </question> 
+  
+    <question type="true-false" correctanswer="false">
+      <text>Federal guidelines have been issued for institutional conflicts of interest.</text>
+      <explanation>TBA</explanation>
+  </question>  
+
+</module>
+
+
+</quiz>

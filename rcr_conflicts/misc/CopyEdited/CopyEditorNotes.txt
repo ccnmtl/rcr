@@ -1,0 +1,64 @@
+Subject: COI files
+Date: Wed, 3 Sep 2003 17:19:02 -0400
+From: Andrew_Boynton@newyorker.com
+To: soupios@columbia.edu
+
+Mike:
+Here are all the COI files back. I've used the Track Changes and Insert
+Comment
+functions in Word; let me know if there are any problems accepting/rejecting
+changes and/or getting rid of yellow comments once they've been addressed.
+In the Core Text document, there were a few things that were unclear: how
+bulleted items should be shown, how dates in references should be written.
+For
+the most part I went with a pretty light hand, but if there was some wording
+that just didn't make sense and I needed to understand the meaning in order
+to
+change it, I inserted a comment.
+Let me know if you need anything else. And should I send my invoice to you?
+Thanks.
+Andrew
+
+(See attached file: COI_CaseAnnotatedDrugStudy.doc)(See attached file:
+COI_CaseAnthropologist.doc)(See attached file: COI_ChallengeQ.doc)(See
+attached
+file: COI_FundamentalCoreText.doc)(See attached file: COI_Q&A.doc)(See
+attached
+file: COI_ReferenceListAnnotated.doc)(See attached file:
+COI_ReferenceListComprehensive.)
+
+    ---------------------------------------------------------------------
+                                            Name: COI_CaseAnnotatedDrugStudy.doc
+   COI_CaseAnnotatedDrugStudy.doc           Type: Macintosh BinHex Archive
+                                                  (application/mac-binhex40)
+                                 Download Status: Not downloaded with message
+
+                                        Name: COI_CaseAnthropologist.doc
+   COI_CaseAnthropologist.doc           Type: Macintosh BinHex Archive
+                                              (application/mac-binhex40)
+                             Download Status: Not downloaded with message
+
+                                Name: COI_ChallengeQ.doc
+   COI_ChallengeQ.doc           Type: Macintosh BinHex Archive
+                                      (application/mac-binhex40)
+                     Download Status: Not downloaded with message
+
+                                         Name: COI_FundamentalCoreText.doc
+   COI_FundamentalCoreText.doc           Type: Macintosh BinHex Archive
+                                               (application/mac-binhex40)
+                              Download Status: Not downloaded with message
+
+                         Name: COI_Q&A.doc
+   COI_Q&A.doc           Type: Macintosh BinHex Archive
+                               (application/mac-binhex40)
+              Download Status: Not downloaded with message
+
+                                            Name: COI_ReferenceListAnnotated.doc
+   COI_ReferenceListAnnotated.doc           Type: Macintosh BinHex Archive
+                                                  (application/mac-binhex40)
+                                 Download Status: Not downloaded with message
+
+                                             Name: COI_ReferenceListComprehensive.
+   COI_ReferenceListComprehensive.           Type: Macintosh BinHex Archive
+                                                   (application/mac-binhex40)
+                                  Download Status: Not downloaded with message

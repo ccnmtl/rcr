@@ -1,0 +1,40 @@
+<!-- SMIL for RCR Conflicts of Interest  -->
+<!-- Produced by Columbia Center for New Media Teaching and Learning -->
+
+<!-- "Speakers" -->
+<smil>
+<head>
+
+<layout>
+<meta name="Title" content="RCR Conflicts of Interest"/>
+<meta name="Producer" content="Columbia Center for New Media Teaching and Learning"/>
+<meta name="Copyright" content="(c) 2003 Columbia University"/>
+
+<root-layout width="330" height="283" background-color="#FFFFFF"/>
+<region id="background" left="0" top="0" width="331" height="284" z-index="1"/>
+<region id="video" left="46" top="48" width="240" height="180" z-index="2"/>
+
+</layout>
+</head>
+<body>
+<par>
+	<img src="rcr_intro.gif" region="background" fill="freeze"/>				
+	<video region="video" src="rcr_intro.rm" fill="remove"/>	
+	
+</par>
+	
+</body>
+</smil>
+
+
+
+
+
+
+
+
+
+
+
+
+

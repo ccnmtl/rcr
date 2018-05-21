@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<quiz>
+
+<title>Challenge Questions: Mentoring</title>
+
+
+
+<module>
+
+  <title>Challenge Questions: Mentoring</title>
+
+
+
+  <question type="multiple-choice">
+
+    <text>Which of the following is a factor that may contribute to poor mentoring?</text>
+
+    <answers>
+
+      <answer value="a">Having too many trainees to supervise</answer>
+
+      <answer value="b">Mentor and trainee not having compatible personalities </answer>
+
+      <answer value="c">Inability to devote sufficient time to meet</answer>
+
+      <answer value="d" correct="correct">All of the above.</answer>
+
+    </answers>
+
+    <explanation>TBA</explanation>
+
+  </question>
+
+
+
+  <question type="multiple-choice">
+
+    <text>Which is <b>NOT</b> an essential function of a mentor?</text>
+
+    <answers>
+
+      <answer value="a">Seeking out researchers with less experience to mentor</answer>
+
+      <answer value="b">Advising the trainee in career planning and development</answer>
+
+      <answer value="c">Advocating or protecting trainee when appropriate</answer>
+
+      <answer value="d" correct="correct">Providing trainee with technical training in scientific research</answer>
+
+    </answers>
+
+    <explanation>TBA</explanation>
+
+  </question>
+
+
+
+  <question type="multiple-choice">
+
+    <text>Of the following cases, which is the best example of a potential conflict-of-interest situation in a mentor-trainee relationship?</text>
+
+    <answers>
+
+      <answer value="a" correct="correct">The mentor has many connections that could prove useful to the trainee</answer>
+
+      <answer value="b">The trainee is female and the mentor is male</answer>
+
+      <answer value="c">The trainee and mentor have different research interests</answer>
+
+      <answer value="d">The mentor advises the trainee to pursue research in an area that could result in a lucrative patent</answer>
+
+    </answers>
+
+    <explanation>TBA</explanation>
+
+  </question>
+
+  
+
+  <question type="multiple-choice">
+
+    <text>What is the appropriate course of action for a trainee to take in the event of an abuse of power in a mentoring relationship?</text>
+
+    <answers>
+
+      <answer value="a">Enlist the support of the department head</answer>
+
+      <answer value="b" correct="correct">Confront the mentor</answer>
+
+      <answer value="c">Wait to see if the abuse stops</answer>
+
+      <answer value="d">Try to transfer to a different lab, school, or department</answer>
+
+    </answers>
+
+    <explanation>TBA</explanation>
+
+  </question>
+
+  
+
+  <question type="multiple-choice">
+
+    <text>When is advocacy an appropriate mentoring function?</text>
+
+    <answers>
+
+      <answer value="a" correct="correct">In all situations where a trainee is attacked or threatened</answer>
+
+      <answer value="b">Only when a trainee is falsely accused of wrongdoing</answer>
+
+      <answer value="c">When a trainee is treated unjustly </answer>
+
+      <answer value="d">It is never appropriate to intervene in the affairs of a trainee</answer>
+
+    </answers>
+
+    <explanation>TBA</explanation>
+
+  </question>
+
+  
+
+  <question type="multiple-choice">
+
+    <text>Why is it important for women and minorities to have equal access to mentors?</text>
+
+    <answers>
+
+      <answer value="a">Because it is unethical to exclude any scientist from available resources due to sexism or prejudice</answer>
+
+      <answer value="b">Because historically women and minorities have been underrepresented in the highest levels of the scientific community</answer>
+
+      <answer value="c">Because collaborating with senior researchers is an important factor in career development and can have an impact on a scientist’s productivity, advancement and promotion</answer>
+
+      <answer value="d" correct="correct">All of the above</answer>
+
+    </answers>
+
+    <explanation>TBA</explanation>
+
+  </question>
+
+    
+
+  <question type="multiple-choice">
+
+    <text>Which of the following is a positive outcome of good mentoring that affects responsible conduct of research?</text>
+
+    <answers>
+
+      <answer value="a" correct="correct">Research atmospheres in which mentoring is present are less likely to have scientific misconduct</answer>
+
+      <answer value="b">Mentors exemplify responsible conduct and can act as role models</answer>
+
+      <answer value="c">Mentors know research guidelines and regulations and can communicate them</answer>
+
+      <answer value="d">All of the above</answer>
+
+    </answers>
+
+    <explanation>TBA</explanation>
+
+  </question>
+
+  
+
+  <question type="true-false" correctanswer="false">
+
+    <text>It is the responsibility of trainees to seek prospective mentors.</text>
+
+    <explanation>TBA</explanation>
+
+  </question>  
+
+
+
+</module>
+
+
+
+</quiz>
+
